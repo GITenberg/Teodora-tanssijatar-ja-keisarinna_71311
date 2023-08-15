@@ -1,11 +1,16 @@
 _repo: Teodora-tanssijatar-ja-keisarinna_71311
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Diehl, Charles
     gutenberg_agent_id: '56167'
     url: http://www.gutenberg.org/2009/agents/56167
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71311#Teodora-tanssijatar-ja-keisarinna
 gutenberg_issued: '2023-07-31'
 identifiers:
   gutenberg: '71311'
